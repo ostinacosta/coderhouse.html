@@ -150,6 +150,34 @@ article{
 }
 
 
+/*Animaciones*/
+
+.box1{
+	border: solid;
+	border-color: darkred;
+}
+
+.linear-gradient{
+	background: linear-gradient(to top, yellow, purple);
+}
+
+.rotar: hover{
+	transform: rotateY(45deg);
+	cursor: pointer;
+	transition: transform 2s;
+}
+
+.transform:hover{
+	transform: translate(10px 20px);
+	cursor: pointer;
+}
+
+.rotate:hover{
+	transform: rotateY(180deg);
+	cursor: pointer;
+	transition: 2s;
+}
+
 /*Clases Fondos*/
 
 .backYellow{
