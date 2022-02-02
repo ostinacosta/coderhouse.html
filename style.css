@@ -1,0 +1,48 @@
+
+/*Selector universal*/
+*{
+	font-family:'Roboto', sans-serif;
+	color: 
+}
+/*Etiquetas*/
+
+h2{
+	color: blue;
+}
+
+Body{
+	
+}
+
+
+
+
+/*Clases Fondos*/
+
+.backYellow{
+	color: yellow;
+}
+
+.backPurple{
+	color: purple;
+}
+
+
+/*Clases Color Textos*/
+
+.textPurple
+{
+	color: purple;
+}
+
+.textBlack{
+	color: black;
+}
+
+.textWhite{
+	color: white;
+}
+
+/*Clases Fonts*/
+
+.
